@@ -1,1 +1,9 @@
-# football-insight
+### Exploring The Effect Of Players Personal Attributes On The Football Teams Likelihood Of Winning
+
+Despite football being fascinating for its unpredictability, there have been countless studies trying to find out some patterns and make predictions. In sports betting, statistical ranking and scaled strength indicators are widely used. In the project, we don't expect to be able to predict results better than the elaborate and sophisticated models from commercial bookmakers, but we hope to get a glimpse of the footballing patterns hidden behind the player’s data.
+
+Some athletes' attributes may not directly affect the result of a match, but it might be interesting to look for a statistical pattern. We want to figure out the answers to some simple questions, for example, is there a best age to win? Is it the younger the better, or the older the better? Intuitively, we would imagine that the curve of age versus win rate might be a parabola, with a maximum point. Similarly, nationality does not directly determine the game, but is it possible that a team with more South American players will be more likely to win than a team with a greater proportion of European players?
+
+This curiosity leads to our final question: How Do Player’s Personal Attributes Effect The Football Team's Likelihood Of Winning? We focus on the natural attributes for example age, height, nationality, dominant foot, etc. Apparently, we do not judge a player's professional ability, because we ignore his market value, injury history, or season statistics such as goals and assists. Due to the limitations of these attributes, the model would not be able to predict a match accurately.
+
+To answer this question, in this project, we would find a suitable data source, process the cleansing and transformation, then conduct the exploration/visualization. Finally, we will build some models that our data would fit nicely. We would have a series of findings derived from the data model, which would also be easy to understand not only by data scientists but also by football fans.
