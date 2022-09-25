@@ -1,4 +1,4 @@
-### Exploring The Effect Of Players Personal Attributes On The Football Teams Likelihood Of Winning
+This is a Data Science Porject that Explore The Effect Of Players Personal Attributes On The Football Teams Likelihood Of Winning
 
 Despite football being fascinating for its unpredictability, there have been countless studies trying to find out some patterns and make predictions. In sports betting, statistical ranking and scaled strength indicators are widely used. In the project, we don't expect to be able to predict results better than the elaborate and sophisticated models from commercial bookmakers, but we hope to get a glimpse of the footballing patterns hidden behind the player’s data.
 
